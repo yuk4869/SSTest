@@ -1,3 +1,7 @@
 hogehoge
 bbb
+<<<<<<< HEAD
 BBB
+=======
+AAA
+>>>>>>> refs/remotes/origin/main
